@@ -5,7 +5,7 @@ import os
 
 # 1. Telegram Bilgilerin
 BOT_TOKEN = "8836706341:AAGMVs0mcDqyBw33RbaNxkGhRCUhp8Dds6M"
-CHAT_ID = "-1006709991211"  # Örn: "-1001234567890"
+CHAT_ID = "-1004358035234"  # Örn: "-1001234567890"
 
 # 2. Takip Edilecek Araştırmacıların RSS / Blog Kaynakları
 FEEDS = {
